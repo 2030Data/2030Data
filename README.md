@@ -7,5 +7,5 @@
 - 💬 Ask me about knowledge creation
 - 📫 How to reach me: 3082590@myuwc.ac.za
 - 😄 Pronouns: Dr. She/her
-- ⚡ Fun fact: I m passionate on Golf, Piano and Coding
+- ⚡ Fun fact: I am passionate on golf, piano and Coding
 
