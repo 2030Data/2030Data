@@ -1,10 +1,5 @@
 ## About me 👋
 
-
-**2030Data/2030Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on academic research to create M&E indicators & modeling design
 - 🌱 I’m currently learning EDA, CS (Coding+ Virtualised Graphic)
 - 👯 I’m looking to collaborate towards to the attainment of technology & ESG-based SDGs
